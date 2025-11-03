@@ -2,11 +2,17 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/shimu-i/fydp-1)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shimu-i/fydp-1)
 
-![alt text](images/image.png)
+![alt text](images/fydp_team.png)
 
 # Final Year Design Project (FYDP I) – Fall 2025
 
 **Title:** Human Centered AI-Based Learning Support System for Accessibility and Cognitive Disability
+
+**Course Teacher:** Dr. Hasan Sarwar (HS)
+
+**Topic:** 	S/W & HCI
+
+**Group Form Serial:** 253fydp/026
 
 **Supervisor(s):** Dr. Jannnatun Noor Mukta & Ms. Khusnur Binte Jahangir
 
