@@ -171,3 +171,15 @@ https://sites.google.com/site/jannatun0abigzero/home
 | 2 | C | Farhan Anan Himu*, Khushnur Binte Jahangir†, Md. Ziauddin Ridoy‡, Shayantonee Dhar§, and Swakkhar Shatabda¶ | **A New Effective Algorithm for Protein Chain Lattice Fit Problem** | *IEEE WIECON-ECE 2015 Conference on Electrical and Computer Engineering* — **Judged Jointly Best Paper** in *Biomedical Engineering and Bioinformatics* Track | — | [PDF] |
 
 ---
+
+## 🧩 **Accepted Papers – 4th IEEE RAAICON 2025**
+
+Two papers have been **accepted for presentation** at the *4th IEEE RAAICON 2025* under the supervision of **Ms. Khushnur Binte Jahangir**:
+
+| # | Title | Authors / Description | Venue |
+| --- | --- | --- | --- |
+| 3 | **A Hybrid Deep Learning Framework for Rice Leaf Disease Detection and Classification Using DenseNet201 and YOLOv8** | Research work completed by students under the supervision of Ms. Khushnur Binte Jahangir. | *4th IEEE RAAICON 2025* |
+| 4 | **Hybrid Deep Embedding and Ensemble Models with SHAP-Based Interpretability for Heart Disease Prediction** | Research work completed by students under the supervision of Ms. Khushnur Binte Jahangir. | *4th IEEE RAAICON 2025* |
+
+> Proud moment for the supervisor and her students for their hard work and achievement.
+>
