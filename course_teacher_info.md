@@ -71,8 +71,3 @@ Recent projects include:
 Current research emphasizes **blockchain technology** for data security and privacy—particularly in **educational domains**—to ensure secure data handling and trusted academic systems.
 
 ---
-
-
-
-- **LinkedIn:** [View Publications](https://www.linkedin.com/in/dr-hasan-sarwar-bb519142/)
-- **Google Scholar:** [View Publications](https://scholar.google.com/citations?user=81ksXIwAAAAJ&hl=en)
