@@ -8,6 +8,16 @@
 
 **Email:** jannatun@cse.uiu.ac.bd
 
+**Portfolio:** [Link](https://sites.google.com/site/jannatun0abigzero/home)
+
+**Google Scholar:** [Dr. Jannatun Noor Mukta – Google Scholar](https://scholar.google.com/citations?user=nUColk4AAAAJ&hl=en)
+
+**ResearchGate:** [Dr. Jannatun Noor Mukta – ResearchGate](https://www.researchgate.net/profile/Jannatun-Noor)
+
+**Research Topic:** [Show](https://docs.google.com/document/d/1ZhqbxgSuYyFj7eH5_HLYVo_5uNCS1r5S1E0DY_KcO3g/edit?tab=t.0)
+
+**LinkedIn:** [Dr. Jannatun Noor Mukta – LinkedIn Profile](https://www.linkedin.com/in/jannatun-noor-3b8a0240/)
+
 ### 🧠 Expertise Domains
 
 - Human-Centered Design
@@ -40,6 +50,18 @@
 **Cell:** 01688185250
 
 **Email:** khushnur@cse.uiu.ac.bd
+
+**Google Scholar:** [Ms. Khushnur Binte Jahangir – Google Scholar](https://www.notion.so/2a59755df80580a4a375d4f44cdf145b?pvs=21)
+
+**ResearchGate:** [Ms. Khushnur Binte Jahangir – ResearchGate Profile](https://www.researchgate.net/profile/Khushnur-Jahangir)
+
+**IEEE Xplore:** [Ms. Khushnur Binte Jahangir – IEEE Author Page](https://ieeexplore.ieee.org/author/37085790897)
+
+**Semantic Scholar:** [Ms. Khushnur Binte Jahangir – Semantic Scholar Profile](https://www.semanticscholar.org/author/Khushnur-Binte-Jahangir/9315162)
+
+**LinkedIn:** [Ms. Khushnur Binte Jahangir – LinkedIn Profile](https://www.linkedin.com/in/khushnur/)
+
+**Social Media:** [Facebook](https://www.facebook.com/Khush.L21)
 
 ### 🧠 Expertise Domains
 
